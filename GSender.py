@@ -17,7 +17,7 @@ Features:
 - Provides a stop functionality through keyboard input ('s' or 'S').
 
 Usage:
-python gcode_sender.py <gcode_file> --port <serial_port> [--baudrate <baud_rate>]
+python GSender.py <gcode_file> --port <serial_port> [--baudrate <baud_rate>]
 
 Arguments:
 - gcode_file: Path to the GCode file to be processed.
